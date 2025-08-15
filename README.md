@@ -1,7 +1,7 @@
 # Discovering Genomic Signatures of Mammalian Longevity (Promoter-Only)
 
 **Master’s Dissertation Repository — Sohaib Abbas**  
-Supervised by **Prof. Dr. Mark C. Harrison**  
+Supervised by **Dr. Mark C. Harrison**  
 Approval: **08 Jul 2025** · Ref: **P187615**
 
 > *An end-to-end, reproducible pipeline to predict mammalian maximum lifespan using only 1-kb promoter DNA sequences per gene. The repository emphasizes transparent baselines, a compact deep Multiple-Instance Learning (MIL) model, and rigorous evaluation with uncertainty quantification.*
